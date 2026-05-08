@@ -1,0 +1,18 @@
+{
+  "id": "todo",
+  "name": "TODO",
+  "version": "0.1.1",
+  "description": "人机协作待办面板。你和 AI 助手共享一份任务列表，都可以添加、完成、编辑、删除。Shared TODO panel — both you and your AI assistant can add, complete, edit, and delete tasks.",
+  "author": "Marvin",
+  "license": "MIT",
+  "trust": "full-access",
+  "contributes": {
+    "widget": {
+      "title": {
+        "zh": "待办",
+        "en": "TODO"
+      },
+      "route": "/widget"
+    }
+  }
+}
