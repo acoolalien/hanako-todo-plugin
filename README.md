@@ -2,6 +2,9 @@
 
 人机协作待办面板。你和 AI 助手共享一份任务列表，都可以添加、完成、编辑、删除。
 
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/098622aa-5ea8-4996-b798-442959888967" />
+
+
 ## 安装
 
 1. 打开Hanako → 设置 → 插件
